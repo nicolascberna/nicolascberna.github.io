@@ -1,0 +1,20 @@
+{
+    
+    "usuarios":[
+        {
+            "id": 1,
+            "username": "ni.canete",
+            "password": "123",
+            "nombre": "Nicolas",
+            "email": "ni.canete@duocuc.cl"
+        },
+        {
+            "id": 2,
+            "username": "mal.pozo",
+            "password": "123",
+            "nombre": "Malcom",
+            "email": "mal.pozo@duocuc.cl"
+        }
+    ]
+        
+}
