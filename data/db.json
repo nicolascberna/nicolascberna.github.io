@@ -12,6 +12,19 @@
             "password": "123",
             "nombre": "Malcom",
             "email": "mal.pozo@duocuc.cl"
+        },
+        {
+            "id": 3,
+            "username": "se.caffi",
+            "password": "123",
+            "nombre": "Sebastian",
+            "email": "se.caffi@duocuc.cl"
+        },
+        {
+            "id": 4,
+            "username": "al.maltrain",
+            "password": "123",
+            "nombre": "Alain",
+            "email": "al.maltrain@duocuc.cl"
         }
-
 ]
